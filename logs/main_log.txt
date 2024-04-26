@@ -1,0 +1,72 @@
+April 26, 15:04:16 Entering initialize()
+April 26, 15:04:16 data/default.json
+April 26, 15:04:16 Entering load_data()
+April 26, 15:04:16 Location
+April 26, 15:04:16 Done loading object
+April 26, 15:04:16 Location
+April 26, 15:04:16 Done loading object
+April 26, 15:04:16 Location
+April 26, 15:04:16 Done loading object
+April 26, 15:04:16 Player
+April 26, 15:04:16 Done loading object
+April 26, 15:04:16 END
+April 26, 15:04:16 Exiting load_data()
+April 26, 15:04:16 Entering create_map()
+April 26, 15:04:16 P_Location
+April 26, 15:04:16 Mapping
+April 26, 15:04:16 Mapping
+April 26, 15:04:16 Mapping
+April 26, 15:04:16 END
+April 26, 15:04:16 Exiting initialize()
+April 26, 15:04:16 Entering get_line()
+April 26, 15:04:17 Exiting get_line()
+April 26, 15:04:17 Entering get_line()
+April 26, 15:04:19 Exiting get_line()
+April 26, 15:04:19 Entering get_line()
+April 26, 15:04:20 Exiting get_line()
+April 26, 15:04:20 Entering get_line()
+April 26, 15:04:22 Exiting get_line()
+April 26, 15:04:22 Entering get_line()
+April 26, 15:04:23 Exiting get_line()
+April 26, 15:04:24 Entering main_screen()
+April 26, 15:04:24 Entering get_line()
+April 26, 15:04:28 Exiting get_line()
+April 26, 15:04:28 Entering get_line()
+April 26, 15:04:52 Exiting get_line()
+April 26, 15:04:52 Entering get_line()
+April 26, 15:05:01 Exiting get_line()
+April 26, 15:05:01 Moving from Dense Forest to Desolate Plain
+April 26, 15:05:01 Entering get_line()
+April 26, 15:05:05 Exiting get_line()
+April 26, 15:05:05 Entering get_line()
+April 26, 15:05:08 Exiting get_line()
+April 26, 15:05:08 Entering get_line()
+April 26, 15:05:11 Exiting get_line()
+April 26, 15:05:11 Opening inventory screen
+April 26, 15:05:11 Entering select()
+April 26, 15:05:12 Selection made
+April 26, 15:05:12 Choice = Health Potion 3
+April 26, 15:05:12 Choice matched
+April 26, 15:05:12 Entering use_item()
+April 26, 15:05:12 Using item = Health Potion
+April 26, 15:05:12 Exiting use_item()
+April 26, 15:05:12 Entering select()
+April 26, 15:05:14 Choice = q
+April 26, 15:05:14 Entering get_line()
+April 26, 15:05:15 Exiting get_line()
+April 26, 15:05:15 Entering get_line()
+April 26, 15:05:17 Exiting get_line()
+April 26, 15:05:17 Entering get_line()
+April 26, 15:05:18 Exiting get_line()
+April 26, 15:05:18 Entering get_line()
+April 26, 15:05:22 Exiting get_line()
+April 26, 15:05:22 Saving Data
+April 26, 15:05:22 Data Saved
+April 26, 15:05:22 Entering get_line()
+April 26, 15:05:25 Exiting get_line()
+April 26, 15:05:25 Entering get_line()
+April 26, 15:05:27 Exiting get_line()
+April 26, 15:05:27 Entering get_line()
+April 26, 15:05:29 Exiting get_line()
+April 26, 15:05:29 Exiting main_screen()
+April 26, 15:18:20 Entering select()

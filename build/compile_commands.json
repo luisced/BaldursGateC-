@@ -1,0 +1,74 @@
+[
+{
+  "directory": "/Users/luisced/Code/School/RPG/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 -I/Users/luisced/Code/School/RPG/helper -I/Users/luisced/Code/School/RPG/classes -I/Users/luisced/Code/School/RPG/build/_deps/json-src/single_include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/project.dir/main.cpp.o -c /Users/luisced/Code/School/RPG/main.cpp",
+  "file": "/Users/luisced/Code/School/RPG/main.cpp",
+  "output": "CMakeFiles/project.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/luisced/Code/School/RPG/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 -I/Users/luisced/Code/School/RPG/helper -I/Users/luisced/Code/School/RPG/classes -I/Users/luisced/Code/School/RPG/build/_deps/json-src/single_include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/project.dir/helper/error.cpp.o -c /Users/luisced/Code/School/RPG/helper/error.cpp",
+  "file": "/Users/luisced/Code/School/RPG/helper/error.cpp",
+  "output": "CMakeFiles/project.dir/helper/error.cpp.o"
+},
+{
+  "directory": "/Users/luisced/Code/School/RPG/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 -I/Users/luisced/Code/School/RPG/helper -I/Users/luisced/Code/School/RPG/classes -I/Users/luisced/Code/School/RPG/build/_deps/json-src/single_include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/project.dir/helper/screen.cpp.o -c /Users/luisced/Code/School/RPG/helper/screen.cpp",
+  "file": "/Users/luisced/Code/School/RPG/helper/screen.cpp",
+  "output": "CMakeFiles/project.dir/helper/screen.cpp.o"
+},
+{
+  "directory": "/Users/luisced/Code/School/RPG/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 -I/Users/luisced/Code/School/RPG/helper -I/Users/luisced/Code/School/RPG/classes -I/Users/luisced/Code/School/RPG/build/_deps/json-src/single_include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/project.dir/classes/dungeon.cpp.o -c /Users/luisced/Code/School/RPG/classes/dungeon.cpp",
+  "file": "/Users/luisced/Code/School/RPG/classes/dungeon.cpp",
+  "output": "CMakeFiles/project.dir/classes/dungeon.cpp.o"
+},
+{
+  "directory": "/Users/luisced/Code/School/RPG/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 -I/Users/luisced/Code/School/RPG/helper -I/Users/luisced/Code/School/RPG/classes -I/Users/luisced/Code/School/RPG/build/_deps/json-src/single_include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/project.dir/classes/json_conversion.cpp.o -c /Users/luisced/Code/School/RPG/classes/json_conversion.cpp",
+  "file": "/Users/luisced/Code/School/RPG/classes/json_conversion.cpp",
+  "output": "CMakeFiles/project.dir/classes/json_conversion.cpp.o"
+},
+{
+  "directory": "/Users/luisced/Code/School/RPG/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 -I/Users/luisced/Code/School/RPG/helper -I/Users/luisced/Code/School/RPG/classes -I/Users/luisced/Code/School/RPG/build/_deps/json-src/single_include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/project.dir/classes/game.cpp.o -c /Users/luisced/Code/School/RPG/classes/game.cpp",
+  "file": "/Users/luisced/Code/School/RPG/classes/game.cpp",
+  "output": "CMakeFiles/project.dir/classes/game.cpp.o"
+},
+{
+  "directory": "/Users/luisced/Code/School/RPG/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 -I/Users/luisced/Code/School/RPG/helper -I/Users/luisced/Code/School/RPG/classes -I/Users/luisced/Code/School/RPG/build/_deps/json-src/single_include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/project.dir/classes/player.cpp.o -c /Users/luisced/Code/School/RPG/classes/player.cpp",
+  "file": "/Users/luisced/Code/School/RPG/classes/player.cpp",
+  "output": "CMakeFiles/project.dir/classes/player.cpp.o"
+},
+{
+  "directory": "/Users/luisced/Code/School/RPG/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 -I/Users/luisced/Code/School/RPG/helper -I/Users/luisced/Code/School/RPG/classes -I/Users/luisced/Code/School/RPG/build/_deps/json-src/single_include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/project.dir/classes/character.cpp.o -c /Users/luisced/Code/School/RPG/classes/character.cpp",
+  "file": "/Users/luisced/Code/School/RPG/classes/character.cpp",
+  "output": "CMakeFiles/project.dir/classes/character.cpp.o"
+},
+{
+  "directory": "/Users/luisced/Code/School/RPG/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 -I/Users/luisced/Code/School/RPG/helper -I/Users/luisced/Code/School/RPG/classes -I/Users/luisced/Code/School/RPG/build/_deps/json-src/single_include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/project.dir/classes/location.cpp.o -c /Users/luisced/Code/School/RPG/classes/location.cpp",
+  "file": "/Users/luisced/Code/School/RPG/classes/location.cpp",
+  "output": "CMakeFiles/project.dir/classes/location.cpp.o"
+},
+{
+  "directory": "/Users/luisced/Code/School/RPG/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 -I/Users/luisced/Code/School/RPG/helper -I/Users/luisced/Code/School/RPG/classes -I/Users/luisced/Code/School/RPG/build/_deps/json-src/single_include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/project.dir/classes/enemy.cpp.o -c /Users/luisced/Code/School/RPG/classes/enemy.cpp",
+  "file": "/Users/luisced/Code/School/RPG/classes/enemy.cpp",
+  "output": "CMakeFiles/project.dir/classes/enemy.cpp.o"
+},
+{
+  "directory": "/Users/luisced/Code/School/RPG/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 -I/Users/luisced/Code/School/RPG/helper -I/Users/luisced/Code/School/RPG/classes -I/Users/luisced/Code/School/RPG/build/_deps/json-src/single_include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/project.dir/helper/functions.cpp.o -c /Users/luisced/Code/School/RPG/helper/functions.cpp",
+  "file": "/Users/luisced/Code/School/RPG/helper/functions.cpp",
+  "output": "CMakeFiles/project.dir/helper/functions.cpp.o"
+},
+{
+  "directory": "/Users/luisced/Code/School/RPG/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 -I/Users/luisced/Code/School/RPG/helper -I/Users/luisced/Code/School/RPG/classes -I/Users/luisced/Code/School/RPG/build/_deps/json-src/single_include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/project.dir/classes/item.cpp.o -c /Users/luisced/Code/School/RPG/classes/item.cpp",
+  "file": "/Users/luisced/Code/School/RPG/classes/item.cpp",
+  "output": "CMakeFiles/project.dir/classes/item.cpp.o"
+}
+]

@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/luisced/Code/School/RPG",
+      "program": "/Users/luisced/Code/School/RPG/build/Debug/outDebug"
+    }
+  ]
+}

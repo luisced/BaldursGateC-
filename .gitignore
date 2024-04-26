@@ -1,0 +1,9 @@
+
+error.txt
+flowcharts/*
+images/*
+*.Rmd
+project
+Issues
+.Rhistory
+test*

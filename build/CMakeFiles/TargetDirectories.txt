@@ -1,0 +1,5 @@
+/Users/luisced/Code/School/RPG/build/CMakeFiles/project.dir
+/Users/luisced/Code/School/RPG/build/CMakeFiles/edit_cache.dir
+/Users/luisced/Code/School/RPG/build/CMakeFiles/rebuild_cache.dir
+/Users/luisced/Code/School/RPG/build/_deps/json-build/CMakeFiles/edit_cache.dir
+/Users/luisced/Code/School/RPG/build/_deps/json-build/CMakeFiles/rebuild_cache.dir
